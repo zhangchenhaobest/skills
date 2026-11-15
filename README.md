@@ -1,3 +1,29 @@
+# skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Bring realtime market data and research workflows into Claude Code, Cursor & beyond — 29 open-source Skills for stocks, options and commodities.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把实时行情数据与投研工作流带入 Claude Code、Cursor 等工具的 29 个开源技能，覆盖股票、期权与大宗商品。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # AlphaGBM Skills
 
 **Market research inside your AI workspace.**
